@@ -14,42 +14,29 @@ For this analysis, a transaction dataset containing records of customer purchase
         Here is the basic suggested skeleton for my data analytics repo:
         
         ├── data loading
-        
         │ 
-        
         ├── Assignment-1_Data.xlsx 
-        
         │
-        
         ├── cleanedData
-        
         │
-        
-        │
-        
-        ├── Cleaned Assignment-1_Data.xlsx
-        
+        |── Cleaned Assignment-1_Data.xlsx
         |
-        
         ├── Data acquisition
-        
+        |
         ├── Data preprocessing 
-        
+        |
         ├── Data analysis 
-        
+        |
         ├── Association Rule Mining
-
+        |
         ├── Rule Interpretation
-
+        |
         ├── Visualization
-
+        |
         ├── README.md
 
 
 
-
-
-The market basket analysis conducted on the transaction dataset aimed to uncover relationships between products frequently purchased together. By transforming the data and applying the Apriori algorithm, we identified frequent itemsets and generated association rules. The interpretation of these rules offers valuable insights into customer preferences and purchasing patterns. The visualization of support and confidence values using a heatmap enhances the understanding of the strength of these associations. In summary, market basket analysis serves as a powerful tool for businesses to optimize product recommendations, cross-selling strategies, and overall customer satisfaction.
 
 **Feature Descriptions**
 
