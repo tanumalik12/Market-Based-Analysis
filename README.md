@@ -1,4 +1,4 @@
-# Market-Based-Analysis
+# Market-Basket-Analysis
 
 In this project, I will be implementing Market Basket Analysis, a data mining technique used to identify associations and patterns in customers' purchasing behavior. By analyzing transactional data, we aim to uncover relationships between products frequently bought together, which can provide valuable insights for businesses, such as cross-selling opportunities, optimizing product placement, and improving marketing strategies.
 
